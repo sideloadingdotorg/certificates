@@ -1,0 +1,11 @@
+{
+  "status": "Signed",
+  "cert": "GAC TOYOTA MOTOR CO.\\",
+  "issuer": "<Name(CN=Apple Worldwide Developer Relations Certification Authority,OU=G3,O=Apple Inc.,C=US)>",
+  "subject": "<Name(UID=6L3J23729R,CN=iPhone Distribution: GAC TOYOTA MOTOR CO.\\,LTD,OU=6L3J23729R,O=GAC TOYOTA MOTOR CO.\\,LTD,C=CN)>",
+  "date": "2024-10-07 00:34:29",
+  "expire": "2027-10-07 00:34:28",
+  "color": "#00ff00",
+  "bool_revoked_status": false,
+  "blacklisting": "Yes"
+}
