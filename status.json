@@ -1,11 +1,11 @@
 {
-  "status": "Signed",
+  "status": "Revoked",
   "cert": "BMW Brilliance Automotive Ltd.",
   "issuer": "<Name(CN=Apple Worldwide Developer Relations Certification Authority,OU=G3,O=Apple Inc.,C=US)>",
   "subject": "<Name(UID=4YR932H55S,CN=iPhone Distribution: BMW Brilliance Automotive Ltd.,OU=4YR932H55S,O=BMW Brilliance Automotive Ltd.,C=CN)>",
   "date": "2023-02-20 07:03:19",
   "expire": "2026-02-19 07:03:18",
-  "color": "#00ff00",
-  "bool_revoked_status": false,
+  "color": "#ff0000",
+  "bool_revoked_status": true,
   "blacklisting": "Yes"
 }
