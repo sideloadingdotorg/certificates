@@ -24,7 +24,7 @@
 <meta property="twitter:image" content="https://i.ibb.co/GfPXRBtx/D2133-A64-B1-F3-417-F-B506-2141-A9-D034-FE.jpg" />
     <script>
         document.addEventListener('DOMContentLoaded', function() {
-            fetchRepoFiles('loyahdev', 'certificates', 'certs');
+            fetchRepoFiles('sideloadingdotorg', 'certificates', 'certs');
 
             const faqItems = document.querySelectorAll('.faq-item');
             faqItems.forEach(item => {
@@ -173,7 +173,7 @@
 
         window.onpopstate = function(event) {
             if (event.state && event.state.path) {
-                const owner = 'loyahdev';
+                const owner = 'sideloadingdotorg';
                 const repo = 'certificates';
                 const path = event.state.path.replace('/certs/', '');
                 fetchRepoFiles(owner, repo, path);
@@ -183,10 +183,10 @@
 </head>
 <body>
     <div class="rounded-image">
-        <img src="https://certificates-iota.vercel.app/midnight.png" alt="youre not sigma.">
+        <img src="https://github.com/sideloadingdotorg/certificates/blob/main/sideloadingdotorg.jpg?raw=true" alt="youre not sigma.">
     </div>
     <h1>Sideloading.org Certificates</h1>
-    <h4>This is a website created by loyahdev to supply users with Enterprise Certificates from Apple to install apps onto their iOS devices.</h4>
+    <h4>This is a website created by the Sideloading.org team to supply users with Enterprise Certificates from Apple to install apps onto their iOS devices.</h4>
     <h4>To use these certificates just find a file and download it. Extract it and once completed you can use it for signing. The password is included as a text file inside the ZIP files contents.</h4>
     <table>
         <tr><th>File Name</th><th>File Size</th><th>Date</th></tr>
