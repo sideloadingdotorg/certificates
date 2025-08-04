@@ -5,7 +5,8 @@ All certificates here are all availble to use for any of your services and an AP
 
 ## Download Methods
 1. You can download all certificates and view and FAQ with issues and there solution here: https://certs.sideloading.org
-2. To use our API and download the certs for use in your own tools go to either:
+2. You can download all of our certificates easily from the releases tab as well as being able to view other important usage data
+3. To use our API and download the certs for use in your own tools go to either:
 - https://certs.sideloading.org/signed
 - https://certs.sideloading.org/revoked
 - https://certs.sideloading.org/all-certs
