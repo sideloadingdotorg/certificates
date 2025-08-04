@@ -11,10 +11,10 @@ All certificates here are all availble to use for any of your services and an AP
 - https://certs.sideloading.org/revoked
 - https://certs.sideloading.org/all-certs
 > [!TIP]
-> These are all HTML pages but the content is in JSON
+> These are all HTML pages but the content is in JSON format
 
 ## Status Methods
-To view status info of the latest certificate and if it's active go to: https://certs.sideloading.org/status
+To view status info of the latest certificate and if it's active go to: https://certs.sideloading.org/status.json
 
 Made with ❤️ by sideloading.org
 
