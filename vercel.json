@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/signed", "destination": "/signed.html" },
+    { "source": "/revoked", "destination": "/revoked.html" },
+    { "source": "/all-certs", "destination": "/all-certs.html" }
+  ]
+}
