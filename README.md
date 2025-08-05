@@ -4,7 +4,7 @@ You can find almost all leaked enterprise certificates that are used to sign iOS
 All certificates here are all availble to use for any of your services and an API to download them is outlined later below.
 
 ## Download Methods
-1. You can download all certificates and view and FAQ with issues and there solution here: https://certs.sideloading.org
+1. You can download all certificates and view the FAQ with issues and their solution here: https://certs.sideloading.org
 2. You can download all of our certificates easily from the releases tab as well as being able to view other important usage data
 3. To use our API and download the certs for use in your own tools go to either:
 - https://certs.sideloading.org/signed
