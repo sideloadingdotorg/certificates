@@ -1,11 +1,11 @@
 {
-  "status": "Revoked",
-  "cert": "BMW Brilliance Automotive Ltd.",
+  "status": "Signed",
+  "cert": "China Zheshang Bank Co.\\",
   "issuer": "<Name(CN=Apple Worldwide Developer Relations Certification Authority,OU=G3,O=Apple Inc.,C=US)>",
-  "subject": "<Name(UID=4YR932H55S,CN=iPhone Distribution: BMW Brilliance Automotive Ltd.,OU=4YR932H55S,O=BMW Brilliance Automotive Ltd.,C=CN)>",
-  "date": "2023-02-20 07:03:19",
-  "expire": "2026-02-19 07:03:18",
-  "color": "#ff0000",
-  "bool_revoked_status": true,
+  "subject": "<Name(UID=L2T64WTF7V,CN=iPhone Distribution: China Zheshang Bank Co.\\, Ltd.,OU=1L9EKBXAZ7,O=China Zheshang Bank Co.\\, Ltd.,C=CN)>",
+  "date": "2023-12-26 01:05:00",
+  "expire": "2025-09-01 01:05:00",
+  "color": "#00ff00",
+  "bool_revoked_status": false,
   "blacklisting": "Yes"
 }
