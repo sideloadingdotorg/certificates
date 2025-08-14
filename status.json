@@ -1,11 +1,11 @@
 {
-  "status": "Signed",
-  "cert": "China Zheshang Bank Co.\\",
+  "status": "Revoked",
+  "cert": "Tianjin University of Commerce",
   "issuer": "<Name(CN=Apple Worldwide Developer Relations Certification Authority,OU=G3,O=Apple Inc.,C=US)>",
-  "subject": "<Name(UID=L2T64WTF7V,CN=iPhone Distribution: China Zheshang Bank Co.\\, Ltd.,OU=1L9EKBXAZ7,O=China Zheshang Bank Co.\\, Ltd.,C=CN)>",
-  "date": "2023-12-26 01:05:00",
-  "expire": "2025-09-01 01:05:00",
-  "color": "#00ff00",
-  "bool_revoked_status": false,
+  "subject": "<Name(UID=Y4A766YXYG,CN=iPhone Distribution: Tianjin University of Commerce,OU=Y4A766YXYG,O=Tianjin University of Commerce,C=CN)>",
+  "date": "2024-02-26 06:15:37",
+  "expire": "2027-02-25 06:15:36",
+  "color": "#ff0000",
+  "bool_revoked_status": true,
   "blacklisting": "Yes"
 }
