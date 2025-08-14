@@ -16,6 +16,9 @@ All certificates here are all availble to use for any of your services and an AP
 ## Status Methods
 To view status info of the latest certificate and if it's active go to: https://certs.sideloading.org/status.json
 
+> [!WARNING]
+> China Zheshang Bank Co. Certificate has been removed from here due to it not working and being modified from a revoked certificate.
+
 Made with ❤️ by sideloading.org
 
 <img width="1800" height="975" alt="Screenshot-2025-08-04-at-11-08-53-AM" src="https://github.com/user-attachments/assets/f1c27447-5098-4c4d-998a-a529da04f297" />
