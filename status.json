@@ -1,11 +1,11 @@
 {
-  "status": "Revoked",
-  "cert": "Tianjin University of Commerce",
+  "status": "Signed",
+  "cert": "GLOBAL TAKEOFF\\",
   "issuer": "<Name(CN=Apple Worldwide Developer Relations Certification Authority,OU=G3,O=Apple Inc.,C=US)>",
-  "subject": "<Name(UID=Y4A766YXYG,CN=iPhone Distribution: Tianjin University of Commerce,OU=Y4A766YXYG,O=Tianjin University of Commerce,C=CN)>",
-  "date": "2024-02-26 06:15:37",
-  "expire": "2027-02-25 06:15:36",
-  "color": "#ff0000",
-  "bool_revoked_status": true,
+  "subject": "<Name(UID=VTM793CVGA,CN=iPhone Distribution: GLOBAL TAKEOFF\\, INC,OU=VTM793CVGA,O=GLOBAL TAKEOFF\\, INC,C=US)>",
+  "date": "2025-06-05 08:55:30",
+  "expire": "2028-06-04 08:55:29",
+  "color": "#00ff00",
+  "bool_revoked_status": false,
   "blacklisting": "Yes"
 }
