@@ -14,7 +14,7 @@ All certificates here are all availble to use for any of your services and an AP
 > These are all HTML pages but the content is in JSON format
 
 ## Status Methods
-To view status info of the latest certificate and if it's active go to: https://certs.sideloading.org/status.json
+To view status info of the latest certificate and if it's active go to: https://certapi.sideloading.org/check-cert
 
 Made with ❤️ by sideloading.org
 
